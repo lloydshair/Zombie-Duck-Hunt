@@ -27,3 +27,6 @@ The game is set in a peaceful pond that is under siege by zombie ducks. The hero
 Player Character: A duck equipped with a simple shooter to defend its pond.
 Enemies: Zombies that vary in speed.
 Power-ups: Helpful items that float down, offering the player temporary advantages.
+
+# GamePlay trailer:
+https://youtu.be/RZcU-VQiGfw 
