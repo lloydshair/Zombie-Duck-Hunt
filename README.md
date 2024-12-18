@@ -2,7 +2,7 @@
 Created by Alisha Velji & Vaniya Sharma for IMD3006
 
 # Overview
-Zombie Duck Hunt is a fast-paced, 2D top-down arcade shooter game developed using Openframeworks and C/C++ programming. In the game, the player takes on the role of a heroic duck who defends and saves its pond from an endless swarm of zombie ducks and other enemies. The game challenges players to survive waves of enemies while collecting power-ups to enhance their abilities. As the game progresses, waves become more challenging with faster and tougher enemies. 
+Zombie Duck Hunt is a fast-paced, 2D top-down arcade shooter game developed using Openframeworks and C/C++ programming. In the game, the player takes on the role of a heroic duck who defends and saves its pond from an endless swarm of zombies. The game challenges players to survive waves of enemies while collecting power-ups to enhance their abilities. As the game progresses, waves become more challenging with faster and tougher enemies. 
 
 # Gameplay
 Goal: The objective of the game is to survive as long as possible by killing the enemies and earning a high score.
@@ -21,7 +21,7 @@ Move the duck left or right across the bottom of the screen using arrow keys.
 Fire bullets upwards using the spacebar to eliminate enemies descending from the top of the screen.
 
 # Narrative
-The game is set in a peaceful pond that is under siege by zombie ducks. The heroic duck must protect its home and survive the relentless attack. While the story is simple, it adds a fun, lighthearted charm to the intense gameplay.
+The game is set in a peaceful pond that is under siege by zombies. The heroic duck must protect its home and survive the relentless attack. While the story is simple, it adds a fun, lighthearted charm to the intense gameplay.
 
 # Characters:
 Player Character: A duck equipped with a simple shooter to defend its pond.
